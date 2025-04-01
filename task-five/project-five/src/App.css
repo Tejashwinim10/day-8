@@ -1,0 +1,15 @@
+.card{
+  background-color: rgb(23, 133, 133);
+  width:10%;
+  border:2px solid black;
+  border-radius: 10px;
+  color: bisque;
+  font-family: sans-serif;
+  margin:10px;
+  padding: 40px;
+  text-align: center;
+  display:inline-block;
+  text-shadow:0px 0px 3px  pink ;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border-style:outset;
+}

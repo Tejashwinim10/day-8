@@ -1,0 +1,15 @@
+.caard{
+  background-color: rgb(168, 168, 200);
+  max-width: 200px;
+  border:2px solid rgb(168, 168, 200);
+  border-radius: 20px;
+  border-width: 5cap;
+  border-style:dashed;
+  color: bisque;
+  font-family: sans-serif;
+  margin:10px;
+  padding: 2px;
+  text-align:start;
+  display:inline-block;
+  text-shadow: 3px 4px 5px burlywood;
+}
